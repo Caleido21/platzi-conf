@@ -8,6 +8,7 @@
 #btn-platzi
 {
     background-color: #97c933;
+    color: white;
 }
 
 #btn-platzi:hover
@@ -46,6 +47,12 @@
     left: 0;
     right: 0;
     background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+#place-time
+{
+    background-color:rgb(33 37 41);
     color: white;
 }
 
